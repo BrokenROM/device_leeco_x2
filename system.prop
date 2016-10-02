@@ -194,4 +194,4 @@ ro.vendor.wechatpay.support=true
 persist.sys.le_fast_chrg_enable=1
 
 # Storage
-ro.sdcardfs.enable=true
+ro.sys.sdcardfs=true

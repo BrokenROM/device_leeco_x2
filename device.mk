@@ -266,7 +266,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     dsi_config.xml \
     netmgr_config.xml \
-    qmi_config.xml \
+    qmi_config.xml
 
 # RIL
 PRODUCT_PACKAGES += \

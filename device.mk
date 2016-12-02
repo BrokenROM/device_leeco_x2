@@ -262,6 +262,10 @@ PRODUCT_PACKAGES += \
     netmgr_config.xml \
     qmi_config.xml
 
+# Recovery
+PRODUCT_PACKAGES += \
+    librecovery_updater_x2
+
 # RIL
 PRODUCT_PACKAGES += \
     librmnetctl \

@@ -1,0 +1,14 @@
+[
+ {
+   "remote":      "github",
+   "repository":  "CrackerTeg/kernel_leeco_msm8996",
+   "target_path": "kernel/leeco/msm8996",
+   "branch":      "n7.1"
+ },
+ {
+   "remote":	  "github",
+   "repository":  "CrackerTeg/proprietary_vendor_leeco",
+   "target_path": "vendor/leeco/x2"
+   "branch":      "n7.1"
+ }
+]

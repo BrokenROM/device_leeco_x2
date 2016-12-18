@@ -10,5 +10,11 @@
    "repository":  "CrackerTeg/proprietary_vendor_leeco",
    "target_path": "vendor/leeco/x2"
    "branch":      "n7.1"
+ },
+ {
+   "remote":      "github",
+   "repository":  "Cyanogenmod/android_external_stlport",
+   "target_path": "external/stlport",
+   "branch":      "cm-14.1"
  }
 ]

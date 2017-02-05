@@ -357,6 +357,15 @@
           turned off and the screen off animation has been performed. -->
     <bool name="config_dozeAfterScreenOff">true</bool>
 
+    <!-- Default value for proximity check on screen wake
+     NOTE ! - Enable for devices that have a fast response proximity sensor (ideally < 300ms)-->
+    <bool name="config_proximityCheckOnWake">true</bool>
+    <integer name="config_proximityCheckTimeout">100</integer>
+    <bool name="config_proximityCheckOnWakeEnabledByDefault">true</bool>
+
+    <!-- Is the notification LED brightness adjustable ? Used to decide if the user can set LED brightness -->
+    <bool name="config_adjustableNotificationLedBrightness">true</bool>
+
     <!-- Power Management: Specifies whether to decouple the interactive state of the
          device from the display on/off state.
          When false, setInteractive(..., true) will be called before the display is turned on

@@ -3,18 +3,18 @@
    "remote":      "github",
    "repository":  "CrackerTeg/kernel_leeco_msm8996",
    "target_path": "kernel/leeco/msm8996",
-   "branch":      "m"
+   "branch":      "n"
  },
  {
    "remote":	  "github",
    "repository":  "CrackerTeg/proprietary_vendor_leeco",
    "target_path": "vendor/leeco",
-   "branch":      "m"
+   "branch":      "n"
  },
  {
    "remote":      "github",
    "repository":  "LineageOS/android_external_stlport",
    "target_path": "external/stlport",
-   "branch":      "cm-13.0"
+   "branch":      "cm-14.1"
  }
 ]
